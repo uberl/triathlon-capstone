@@ -23,4 +23,8 @@ Steps:
 Reasoning for the categorization:
 Upon further inspection, basically all participants where from germany. A lot of participants where from single countries. Some neighbouring countries had 2-5 participants.
 
+Result:
+
+For interactive map download the jupyter Notebook and run locally. Since GitHub currently does not allow interactive content, here is a static plot: [https://github.com/uberl/triathlon-capstone/blob/main/participants-nationalities.png](https://github.com/uberl/triathlon-capstone/blob/main/participants-nationalities.png)
+
 
