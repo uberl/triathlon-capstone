@@ -2,7 +2,8 @@ Google Data Analytics Capstone Project
 
 I have no rights to the data. It is publicly available here: https://www.datasport.de/anmeldeservice/triathlonnuernberg2024/ergebnisse#5_07AD35
 
-Question: Where were the participants of my first triathlon from?
+Question: 
+Where were the participants of my first triathlon from?
 
 Steps:
 1. Download raw data into list.json
@@ -26,5 +27,8 @@ Upon further inspection, basically all participants where from germany. A lot of
 Result:
 
 For interactive map download the jupyter Notebook and run locally. Since GitHub currently does not allow interactive content, here is a static plot: [https://github.com/uberl/triathlon-capstone/blob/main/participants-nationalities.png](https://github.com/uberl/triathlon-capstone/blob/main/participants-nationalities.png)
+
+Answer:
+The lion's share of participants was from the area, small numbers from France and the UK, then single participants from other neighboring countries,like Switzerland and Austria, but also countries like Argentina, South Africa and the USA.
 
 
